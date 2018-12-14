@@ -1,2 +1,2 @@
 # Web-servers
-Stepic_Course
+stepic_web_project
